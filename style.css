@@ -1,6 +1,5 @@
-body {
+.style {
+    color: green;
     display: flex;
     justify-content: center;
-    color: green;
-    position: relative;
 }
